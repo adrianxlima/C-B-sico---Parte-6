@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\bin\Debug\net7.0\project-debugging-CSharp-main.exe
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\bin\Debug\net7.0\project-debugging-CSharp-main.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\bin\Debug\net7.0\project-debugging-CSharp-main.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\bin\Debug\net7.0\project-debugging-CSharp-main.dll
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\bin\Debug\net7.0\project-debugging-CSharp-main.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\project-debugging-CSharp-main.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\project-debugging-CSharp-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\project-debugging-CSharp-main.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\project-debugging-CSharp-main.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\project-debugging-CSharp-main.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\project-debugging-CSharp-main.dll
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\refint\project-debugging-CSharp-main.dll
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\project-debugging-CSharp-main.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\project-debugging-CSharp-main.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\project-debugging-CSharp-main\obj\Debug\net7.0\ref\project-debugging-CSharp-main.dll
